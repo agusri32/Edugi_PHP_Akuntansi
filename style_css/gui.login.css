@@ -1,0 +1,27 @@
+@charset "utf-8";
+body {
+	background:url(../images/background_light.jpg) center repeat-x;
+	background-color:#CCC;
+    color: #000000;
+    font-size: 12px;
+	font-family:Arial, Helvetica, sans-serif;
+   }
+#logo   {
+	background:url(../images/logo.png) no-repeat;
+		}
+#teksjudul {
+	font-size:36px;
+	color:#666;
+	font-family:Arial, Helvetica, sans-serif;
+	text-align:center;
+			}
+#formlogin
+	{
+	margin-top:200px;
+	}
+  .hr 
+  	{
+    background-color: #808080;
+    font-family: Arial;
+    font-size: 12px;
+  	}

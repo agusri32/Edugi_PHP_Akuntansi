@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+  body {
+	background-color:#CCC;
+    color: #000000;
+    font-size: 12px;
+	font-family:Arial, Helvetica, sans-serif;
+   }
+  img {
+	  border:none;
+	  }
+  .bd {
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  .tbl {
+	border: thin solid #000;
+  }
+  a:link { 
+    color: #FF0000;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a:active { 
+    color: #0000FF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a:visited { 
+    color: #800080;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  .hr {
+    background-color: #808080;
+   
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a.hr:link {
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a.hr:active {
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  a.hr:visited {
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 12px;
+  }
+  .dr {
+	background-color: #0CF;
+	color: #000000;
+	font-family: Arial;
+	font-size: 12px;
+  }
+  .sr {
+	background-color: #999;
+	color: #000000;
+	font-family: Arial;
+	font-size: 12px;
+  }
+  .FormatRupiah { 
+	border-right:none; 
+	text-align:right; 
+	padding:1px; 
+	border: 1px solid #999999; 
+	FONT-SIZE: 10px ; 
+	COLOR: #003366; 
+	FONT-FAMILY: Verdana; 
+	BACKGROUND-COLOR: #fffff0;
+}
+.InputText {
+	border: 1px solid #999999; 
+	FONT-SIZE: 11px ; 
+	COLOR: #003366; 
+	FONT-FAMILY: Verdana; 
+	BACKGROUND-COLOR: #ffffff;
+
+}
